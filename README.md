@@ -1,4 +1,4 @@
-# HAuth
+# HMail
 
 Sends email using mailjet API
 
